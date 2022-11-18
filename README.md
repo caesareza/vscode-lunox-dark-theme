@@ -4,5 +4,5 @@ Lunox VSCode Dark Theme, using the pleasing colours red, pink, green, also orang
 
 ## Screenshots
 
-![App Screenshot](./images/ss1.jpg)
-![App Screenshot](./images/ss2.jpg)
+![App Screenshot](./images/app-ss-1.jpg)
+![App Screenshot](./images/app-ss-2.jpg)
