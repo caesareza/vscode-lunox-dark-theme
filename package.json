@@ -3,6 +3,7 @@
   "displayName": "Lunox Dark",
   "description": "Lunox VSCode dark theme",
   "version": "0.0.1",
+  "publisher": "Kiaria",
   "engines": {
     "vscode": "^1.73.0"
   },

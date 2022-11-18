@@ -4,7 +4,7 @@
     // 272E30 2D3132 283032 292F31 252B2D
     // "editor.background": "#2D3132",
     // "editor.lineHighlightBorder": "#ff0000",
-    "editor.background": "#252B2D",
+    "editor.background": "#23292b",
     "editor.foreground": "#AEAEAE",
     "activityBarBadge.background": "#508991",
     "sideBarTitle.foreground": "#738c88",
@@ -25,7 +25,7 @@
     "list.activeSelectionBackground": "#23292b",
     "list.activeSelectionForeground": "#62a8ac",
     "list.activeSelectionIconForeground": "#62a8ac",
-    "gitDecoration.modifiedResourceForeground": "#f75590",
+    "gitDecoration.modifiedResourceForeground": "#b2cac1",
     "gitDecoration.untrackedResourceForeground": "#5c6f68",
     "gitDecoration.ignoredResourceForeground": "#5c6f68",
     "tab.activeBorder": "#597c82"
@@ -44,15 +44,15 @@
       "name": "Variables",
       "scope": ["variable", "string constant.other.placeholder"],
       "settings": {
-        // 8ac6d0
-        "foreground": "#ef767a"
+        // 8ac6d0 ef767a a2d2ff
+        "foreground": "#cccccc"
       }
     },
     {
       "name": "Colors",
       "scope": ["constant.other.color"],
       "settings": {
-        "foreground": "#ef767a"
+        "foreground": "#cccccc"
       }
     },
     {
@@ -66,7 +66,8 @@
       "name": "Keyword, Storage",
       "scope": ["keyword", "storage.type", "storage.modifier"],
       "settings": {
-        "foreground": "#277da1"
+        // fe621d
+        "foreground": "#FF5D8F"
       }
     },
     {
@@ -86,7 +87,8 @@
         "keyword.other.substitution"
       ],
       "settings": {
-        "foreground": "#277da1"
+        // FF5D8F 277da1
+        "foreground": "#FF5D8F"
       }
     },
     {
@@ -104,6 +106,7 @@
         "keyword.other.substitution"
       ],
       "settings": {
+        // ffccd5  aeaeae
         "foreground": "#aeaeae"
       }
     },
@@ -130,15 +133,15 @@
         "keyword.other.special-method"
       ],
       "settings": {
-        // 85bdbf 90be6d e9df00
-        "foreground": "#ef767a"
+        // 85bdbf 90be6d e9df00 ef767a 49BEAA
+        "foreground": "#cccccc"
       }
     },
     {
       "name": "Block Level Variables",
       "scope": ["meta.block variable.other"],
       "settings": {
-        "foreground": "#ef767a"
+        "foreground": "#cccccc"
       }
     },
     {
