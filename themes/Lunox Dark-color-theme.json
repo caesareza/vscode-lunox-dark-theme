@@ -4,12 +4,18 @@
     // 272E30 2D3132 283032 292F31 252B2D
     // "editor.background": "#2D3132",
     // "editor.lineHighlightBorder": "#ff0000",
+    // "tab.activeForeground": "#738c88",
+    // "tab.border": "#384447",
+    "sideBar.border": "#384447",
+    "editorGroupHeader.tabsBorder": "#384447",
+    "tab.inactiveBackground": "#2a3133",
     "editor.background": "#23292b",
     "editor.foreground": "#AEAEAE",
     "activityBarBadge.background": "#508991",
     "sideBarTitle.foreground": "#738c88",
     "statusBar.background": "#23292b",
     "statusBar.border": "#384447",
+    "statusBar.foreground": "#73878C",
     "sideBar.background": "#23292b",
     "sideBar.foreground": "#738c88",
     "sideBar.dropBackground": "#b3ff00",
@@ -28,7 +34,8 @@
     "gitDecoration.modifiedResourceForeground": "#b2cac1",
     "gitDecoration.untrackedResourceForeground": "#5c6f68",
     "gitDecoration.ignoredResourceForeground": "#5c6f68",
-    "tab.activeBorder": "#597c82"
+    "tab.activeBorder": "#597c82",
+    "terminal.foreground": "#597c82"
     // "scrollbarSlider.background": "#ff0000"
   },
   "tokenColors": [
@@ -141,7 +148,8 @@
       "name": "Block Level Variables",
       "scope": ["meta.block variable.other"],
       "settings": {
-        "foreground": "#cccccc"
+        // ffba08 97cc04 aacc00 80b918 70e000
+        "foreground": "#aacc00"
       }
     },
     {
