@@ -18,5 +18,9 @@
       }
     ]
   },
-  "icon": "logo.png"
+  "icon": "logo.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/caesareza/vscode-lunox-dark-theme.git"
+  }
 }
