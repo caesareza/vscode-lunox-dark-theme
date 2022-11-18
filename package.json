@@ -1,0 +1,22 @@
+{
+  "name": "lunox-dark",
+  "displayName": "Lunox Dark",
+  "description": "Lunox VSCode dark theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Lunox Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Lunox Dark-color-theme.json"
+      }
+    ]
+  },
+  "icon": "logo.png"
+}
