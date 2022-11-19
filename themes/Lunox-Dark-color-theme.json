@@ -11,7 +11,7 @@
     "editorGroupHeader.tabsBorder": "#384447",
     "tab.inactiveBackground": "#2D3132",
     "editor.background": "#212627",
-    "editor.foreground": "#efefef",
+    "editor.foreground": "#B1BECA",
     "activityBarBadge.background": "#508991",
     "sideBarTitle.foreground": "#738c88",
     "statusBar.background": "#23292b",
@@ -45,7 +45,7 @@
       "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#5f6f73"
+        "foreground": "#333c3e"
       }
     },
     {
@@ -53,7 +53,7 @@
       "scope": ["variable", "string constant.other.placeholder"],
       "settings": {
         // 8ac6d0 ef767a a2d2ff
-        "foreground": "#6dc19e"
+        "foreground": "#B1BECA"
       }
     },
     {
@@ -117,7 +117,7 @@
       ],
       "settings": {
         // ffccd5  aeaeae
-        "foreground": "#efefef"
+        "foreground": "#d1d1d1"
       }
     },
     {
@@ -159,7 +159,8 @@
       ],
       "settings": {
         // 85bdbf 90be6d e9df00 ef767a 49BEAA
-        "foreground": "#e9df00"
+        // yellow : d2c800 FFCB6B d0c600 dbd007
+        "foreground": "#d0c600"
       }
     },
     {
@@ -167,7 +168,7 @@
       "scope": ["meta.block variable.other"],
       "settings": {
         // ffba08 97cc04 aacc00 80b918 70e000 6e9887
-        "foreground": "#6e9887"
+        "foreground": "#B1BECA"
       }
     },
     {
@@ -190,7 +191,7 @@
         "keyword.other"
       ],
       "settings": {
-        "foreground": "#F78C6C"
+        "foreground": "#B1BECA"
       }
     },
     {
@@ -231,7 +232,7 @@
       "name": "Entity Types",
       "scope": ["support.type"],
       "settings": {
-        "foreground": "#efefef"
+        "foreground": "#B1BECA"
       }
     },
     {
@@ -245,7 +246,7 @@
         "source.postcss support.type.property-name"
       ],
       "settings": {
-        "foreground": "#efefef"
+        "foreground": "#B1BECA"
       }
     },
     {
@@ -289,8 +290,8 @@
       "name": "Attributes",
       "scope": ["entity.other.attribute-name"],
       "settings": {
-        // f3722c affc41 e29578 88d4ab 1d8676 eb6090 ff5d8f ff477e ff9ebb
-        "foreground": "#96d289"
+        // fe7295
+        "foreground": "#ff92b1"
       }
     },
     {
