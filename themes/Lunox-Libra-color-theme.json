@@ -1,42 +1,35 @@
 {
-  "name": "Lunox Dark",
+  "name": "Lunox Libra",
   "colors": {
-    // 272E30 2D3132 283032 292F31 252B2D
-    // "editor.background": "#2D3132",
-    // "editor.lineHighlightBorder": "#ff0000",
-    // "tab.activeForeground": "#738c88",
-    // "tab.border": "#384447",
-    "sideBar.border": "#384447",
-    "editorGroupHeader.tabsBorder": "#384447",
-    "tab.inactiveBackground": "#2a3133",
-    "editor.background": "#23292b",
+    "sideBar.border": "#23292b",
+    "editorGroupHeader.tabsBorder": "#23292b",
+    "tab.inactiveBackground": "#23292b",
+    "editor.background": "#23262A",
     "editor.foreground": "#AEAEAE",
-    "activityBarBadge.background": "#508991",
+    "activityBarBadge.background": "#07508c",
     "sideBarTitle.foreground": "#738c88",
-    "statusBar.background": "#23292b",
-    "statusBar.border": "#384447",
-    "statusBar.foreground": "#73878C",
-    "sideBar.background": "#23292b",
-    "sideBar.foreground": "#738c88",
-    "sideBar.dropBackground": "#b3ff00",
-    // "sideBarSectionHeader.foreground": "#597c82",
-    "activityBar.background": "#23292b",
-    "activityBar.activeBorder": "#597c82",
-    "activityBar.foreground": "#597c82",
-    "activityBar.border": "#384447",
-    "titleBar.activeBackground": "#23292b",
-    "titleBar.border": "#384447",
-    "editorLineNumber.foreground": "#3B4548",
+    "statusBar.background": "#1C1E22",
+    "statusBar.border": "#4d586f",
+    "statusBar.foreground": "#4d586f",
+    "sideBar.background": "#1C1E22",
+    "sideBar.foreground": "#7b899c",
+    "sideBar.dropBackground": "#ffd500",
+    "activityBar.background": "#1C1E22",
+    "activityBar.activeBorder": "#364F67",
+    "activityBar.foreground": "#2868a5",
+    "activityBar.border": "#272b33",
+    "titleBar.activeBackground": "#1C1E22",
+    "titleBar.border": "#272d32",
+    "editorLineNumber.foreground": "#364F67",
     "editorLineNumber.activeForeground": "#73878C",
     "list.activeSelectionBackground": "#23292b",
-    "list.activeSelectionForeground": "#62a8ac",
-    "list.activeSelectionIconForeground": "#62a8ac",
-    "gitDecoration.modifiedResourceForeground": "#b2cac1",
+    "list.activeSelectionForeground": "#99ab12",
+    "list.activeSelectionIconForeground": "#364F67",
+    "gitDecoration.modifiedResourceForeground": "#00509d",
     "gitDecoration.untrackedResourceForeground": "#5c6f68",
     "gitDecoration.ignoredResourceForeground": "#5c6f68",
     "tab.activeBorder": "#597c82",
     "terminal.foreground": "#597c82"
-    // "scrollbarSlider.background": "#ff0000"
   },
   "tokenColors": [
     {
@@ -51,7 +44,6 @@
       "name": "Variables",
       "scope": ["variable", "string constant.other.placeholder"],
       "settings": {
-        // 8ac6d0 ef767a a2d2ff
         "foreground": "#cccccc"
       }
     },
@@ -66,15 +58,14 @@
       "name": "Invalid",
       "scope": ["invalid", "invalid.illegal"],
       "settings": {
-        "foreground": "#FF5370"
+        "foreground": "#0466c8"
       }
     },
     {
       "name": "Keyword, Storage",
       "scope": ["keyword", "storage.type", "storage.modifier"],
       "settings": {
-        // fe621d
-        "foreground": "#FF5D8F"
+        "foreground": "#0466c8"
       }
     },
     {
@@ -94,8 +85,8 @@
         "keyword.other.substitution"
       ],
       "settings": {
-        // FF5D8F 277da1
-        "foreground": "#FF5D8F"
+        "foreground": "#156cbd"
+        // "fontStyle": "bold"
       }
     },
     {
@@ -113,7 +104,6 @@
         "keyword.other.substitution"
       ],
       "settings": {
-        // ffccd5  aeaeae
         "foreground": "#aeaeae"
       }
     },
@@ -125,9 +115,7 @@
         "markup.deleted.git_gutter"
       ],
       "settings": {
-        // 21897e f75590
-        // c94370 -> pink
-        "foreground": "#c94370"
+        "foreground": "#ff6b35"
       }
     },
     {
@@ -140,7 +128,6 @@
         "keyword.other.special-method"
       ],
       "settings": {
-        // 85bdbf 90be6d e9df00 ef767a 49BEAA
         "foreground": "#cccccc"
       }
     },
@@ -148,8 +135,7 @@
       "name": "Block Level Variables",
       "scope": ["meta.block variable.other"],
       "settings": {
-        // ffba08 97cc04 aacc00 80b918 70e000
-        "foreground": "#aacc00"
+        "foreground": "#d0b75b"
       }
     },
     {
@@ -188,8 +174,7 @@
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
       ],
       "settings": {
-        // 90BE6D f4e04d 85bdbf
-        "foreground": "#52ad9c"
+        "foreground": "#468faf"
       }
     },
     {
@@ -205,8 +190,7 @@
         "support.type.sys-types"
       ],
       "settings": {
-        // F75590 c94370
-        "foreground": "#c94370"
+        "foreground": "#ff6b35"
       }
     },
     {
@@ -271,8 +255,7 @@
       "name": "Attributes",
       "scope": ["entity.other.attribute-name"],
       "settings": {
-        // f3722c affc41 e29578 88d4ab 1d8676 eb6090 ff5d8f ff477e
-        "foreground": "#ff5d8f"
+        "foreground": "#0466c8"
       }
     },
     {
