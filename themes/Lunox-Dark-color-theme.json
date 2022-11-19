@@ -9,7 +9,7 @@
     // "tab.border": "#384447",
     "sideBar.border": "#384447",
     "editorGroupHeader.tabsBorder": "#384447",
-    "tab.inactiveBackground": "#2a3133",
+    "tab.inactiveBackground": "#2D3132",
     "editor.background": "#212627",
     "editor.foreground": "#AEAEAE",
     "activityBarBadge.background": "#508991",
@@ -75,13 +75,12 @@
       "scope": ["keyword", "storage.type", "storage.modifier"],
       "settings": {
         // fe621d
-        "foreground": "#FF5D8F"
+        "foreground": "#ff499e"
       }
     },
     {
       "name": "Operator, Misc",
       "scope": [
-        "keyword.control",
         "constant.other.color",
         "punctuation",
         "meta.tag",
@@ -96,7 +95,16 @@
       ],
       "settings": {
         // FF5D8F 277da1
-        "foreground": "#FF5D8F"
+        "foreground": "#ff499e"
+      }
+    },
+    {
+      "name": "keyword control",
+      "scope": ["keyword.control"],
+      "settings": {
+        // FF5D8F 277da1 4f6272 055864 ef5d60
+        "foreground": "#277da1",
+        "fontStyle": "bold"
       }
     },
     {
@@ -115,7 +123,7 @@
       ],
       "settings": {
         // ffccd5  aeaeae
-        "foreground": "#aeaeae"
+        "foreground": "#ccc"
       }
     },
     {
@@ -142,15 +150,15 @@
       ],
       "settings": {
         // 85bdbf 90be6d e9df00 ef767a 49BEAA
-        "foreground": "#cccccc"
+        "foreground": "#ba749d"
       }
     },
     {
       "name": "Block Level Variables",
       "scope": ["meta.block variable.other"],
       "settings": {
-        // ffba08 97cc04 aacc00 80b918 70e000
-        "foreground": "#aacc00"
+        // ffba08 97cc04 aacc00 80b918 70e000 6e9887
+        "foreground": "#6e9887"
       }
     },
     {
@@ -272,8 +280,8 @@
       "name": "Attributes",
       "scope": ["entity.other.attribute-name"],
       "settings": {
-        // f3722c affc41 e29578 88d4ab 1d8676 eb6090 ff5d8f ff477e
-        "foreground": "#ff5d8f"
+        // f3722c affc41 e29578 88d4ab 1d8676 eb6090 ff5d8f ff477e ff9ebb
+        "foreground": "#96d289"
       }
     },
     {
