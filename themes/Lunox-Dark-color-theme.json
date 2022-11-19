@@ -103,7 +103,7 @@
       "scope": ["keyword.control"],
       "settings": {
         // FF5D8F 277da1 4f6272 055864 ef5d60
-        "foreground": "#277da1",
+        "foreground": "#006d77",
         "fontStyle": "bold"
       }
     },
@@ -150,7 +150,7 @@
       ],
       "settings": {
         // 85bdbf 90be6d e9df00 ef767a 49BEAA
-        "foreground": "#ba749d"
+        "foreground": "#f2b5d4"
       }
     },
     {
