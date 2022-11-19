@@ -11,7 +11,7 @@
     "editorGroupHeader.tabsBorder": "#384447",
     "tab.inactiveBackground": "#2D3132",
     "editor.background": "#212627",
-    "editor.foreground": "#AEAEAE",
+    "editor.foreground": "#efefef",
     "activityBarBadge.background": "#508991",
     "sideBarTitle.foreground": "#738c88",
     "statusBar.background": "#23292b",
@@ -53,14 +53,14 @@
       "scope": ["variable", "string constant.other.placeholder"],
       "settings": {
         // 8ac6d0 ef767a a2d2ff
-        "foreground": "#cccccc"
+        "foreground": "#6dc19e"
       }
     },
     {
       "name": "Colors",
       "scope": ["constant.other.color"],
       "settings": {
-        "foreground": "#cccccc"
+        "foreground": "#efefef"
       }
     },
     {
@@ -112,18 +112,27 @@
       "scope": [
         "constant.other.color",
         "meta.tag",
-        "punctuation.definition.tag",
-        "punctuation.separator.inheritance.php",
-        "punctuation.definition.tag.html",
-        "punctuation.definition.tag.begin.html",
-        "punctuation.definition.tag.end.html",
-        "punctuation.section.embedded",
         "keyword.other.template",
         "keyword.other.substitution"
       ],
       "settings": {
         // ffccd5  aeaeae
-        "foreground": "#ccc"
+        "foreground": "#efefef"
+      }
+    },
+    {
+      "name": "punctuation Tag Bedin End",
+      "scope": [
+        "punctuation.definition.tag",
+        "punctuation.separator.inheritance.php",
+        "punctuation.definition.tag.html",
+        "punctuation.definition.tag.begin.html",
+        "punctuation.definition.tag.end.html",
+        "punctuation.section.embedded"
+      ],
+      "settings": {
+        // ffccd5  aeaeae
+        "foreground": "#c0586b"
       }
     },
     {
@@ -150,7 +159,7 @@
       ],
       "settings": {
         // 85bdbf 90be6d e9df00 ef767a 49BEAA
-        "foreground": "#f2b5d4"
+        "foreground": "#e9df00"
       }
     },
     {
@@ -222,7 +231,7 @@
       "name": "Entity Types",
       "scope": ["support.type"],
       "settings": {
-        "foreground": "#B2CCD6"
+        "foreground": "#efefef"
       }
     },
     {
@@ -236,7 +245,7 @@
         "source.postcss support.type.property-name"
       ],
       "settings": {
-        "foreground": "#B2CCD6"
+        "foreground": "#efefef"
       }
     },
     {
