@@ -5,7 +5,7 @@
     // 272E30 2D3132 283032 292F31 252B2D
     // "editor.background": "#2D3132",
     // "editor.lineHighlightBorder": "#ff0000",
-    // "tab.activeForeground": "#738c88",
+    // "tab.activeForeground": "#FF499E",
     // "tab.border": "#384447",
     "sideBar.border": "#384447",
     "editorGroupHeader.tabsBorder": "#384447",
@@ -30,14 +30,14 @@
     "editorLineNumber.foreground": "#3B4548",
     "editorLineNumber.activeForeground": "#73878C",
     "list.activeSelectionBackground": "#23292b",
-    "list.activeSelectionForeground": "#62a8ac",
+    "list.activeSelectionForeground": "#FF499E",
     "list.activeSelectionIconForeground": "#62a8ac",
     "gitDecoration.modifiedResourceForeground": "#b2cac1",
     "gitDecoration.untrackedResourceForeground": "#5c6f68",
     "gitDecoration.ignoredResourceForeground": "#5c6f68",
     "tab.activeBorder": "#597c82",
-    "terminal.foreground": "#597c82"
-    // "scrollbarSlider.background": "#ff0000"
+    "terminal.foreground": "#597c82",
+    "list.focusOutline": "#FF499E"
   },
   "tokenColors": [
     {
@@ -45,7 +45,7 @@
       "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#333c3e"
+        "foreground": "#556268"
       }
     },
     {
@@ -191,7 +191,7 @@
         "keyword.other"
       ],
       "settings": {
-        "foreground": "#B1BECA"
+        "foreground": "#ff9286"
       }
     },
     {
