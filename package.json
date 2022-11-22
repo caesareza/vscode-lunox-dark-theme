@@ -18,9 +18,9 @@
         "path": "./themes/Lunox-Dark-color-theme.json"
       },
       {
-        "label": "Lunox Libra",
+        "label": "Lunox Dark Libra",
         "uiTheme": "vs-dark",
-        "path": "./themes/Lunox-Libra-color-theme.json"
+        "path": "./themes/Lunox-Dark-Libra-color-theme.json"
       }
     ]
   },
