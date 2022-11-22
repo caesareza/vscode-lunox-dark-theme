@@ -7,6 +7,8 @@
     // "editor.lineHighlightBorder": "#ff0000",
     // "tab.activeForeground": "#FF499E",
     // "tab.border": "#384447",
+    "breadcrumb.foreground": "#73878C",
+    "debugIcon.breakpointForeground": "#FF499E",
     "sideBar.border": "#384447",
     "editorGroupHeader.tabsBorder": "#384447",
     "editorGroup.emptyBackground": "#1A1E1E",
@@ -14,10 +16,8 @@
     "editorGroup.border": "#1A1E1E",
     "editorGroupHeader.noTabsBackground": "#1A1E1E",
     "editorGroupHeader.tabsBackground": "#23292b",
-    "tab.inactiveBackground": "#23292b",
     "editor.background": "#1A1E1E",
     "editor.foreground": "#B1BECA",
-    "activityBarBadge.background": "#508991",
     "sideBarTitle.foreground": "#738c88",
     "statusBar.noFolderForeground": "#73878C",
     "statusBar.noFolderBackground": "#23292b",
@@ -27,11 +27,14 @@
     "sideBar.background": "#23292b",
     "sideBar.foreground": "#92ada8",
     "sideBar.dropBackground": "#b3ff00",
-    // "sideBarSectionHeader.foreground": "#597c82",
+    "sideBarSectionHeader.border": "#3f4b4e",
+    "sideBarSectionHeader.foreground": "#597c82",
+    "sideBarSectionHeader.background": "#23292b",
     "activityBar.background": "#23292b",
     "activityBar.activeBorder": "#597c82",
     "activityBar.foreground": "#597c82",
     "activityBar.border": "#384447",
+    "activityBarBadge.background": "#508991",
     "titleBar.activeBackground": "#23292b",
     "titleBar.border": "#384447",
     "editorLineNumber.foreground": "#3B4548",
@@ -43,8 +46,11 @@
     "gitDecoration.untrackedResourceForeground": "#5c6f68",
     "gitDecoration.ignoredResourceForeground": "#5c6f68",
     "tab.activeBorder": "#597c82",
+    "tab.inactiveBackground": "#23292b",
     "terminal.foreground": "#597c82",
-    "list.focusOutline": "#FF499E"
+    "list.focusOutline": "#FF499E",
+    "button.background": "#597c82",
+    "textLink.foreground": "#FF499E"
   },
   "tokenColors": [
     {
@@ -198,7 +204,7 @@
         "keyword.other"
       ],
       "settings": {
-        "foreground": "#ff9286"
+        "foreground": "#f28266"
       }
     },
     {

@@ -16,6 +16,11 @@
         "label": "Lunox Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/Lunox-Dark-color-theme.json"
+      },
+      {
+        "label": "Lunox Libra",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Lunox-Libra-color-theme.json"
       }
     ]
   },
