@@ -115,8 +115,8 @@
       "name": "keyword control",
       "scope": ["keyword.control"],
       "settings": {
-        // FF5D8F 277da1 4f6272 055864 ef5d60
-        "foreground": "#006d77",
+        // 006d77 FF5D8F 055864 ef5d60
+        "foreground": "#ef5d60",
         "fontStyle": "bold"
       }
     },
@@ -172,8 +172,8 @@
       ],
       "settings": {
         // 85bdbf 90be6d e9df00 ef767a 49BEAA
-        // yellow : d2c800 FFCB6B d0c600 dbd007
-        "foreground": "#f3c677"
+        // yellow : d2c800 FFCB6B d0c600 dbd007 f3c677
+        "foreground": "#d2c800"
       }
     },
     {
