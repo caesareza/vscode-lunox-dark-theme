@@ -14,9 +14,9 @@
     "editorGroup.border": "#323e44",
     "editorGroupHeader.noTabsBackground": "#1A1E1E",
     "editorGroupHeader.tabsBackground": "#23262A",
-    "editor.background": "#1E2124",
+    "editor.background": "#17191C",
     "editor.foreground": "#B1BECA",
-    "activityBarBadge.background": "#FB5D5A",
+    "activityBarBadge.background": "#0070F3",
     "sideBarTitle.foreground": "#B1BECA",
     "statusBar.noFolderForeground": "#73878C",
     "statusBar.noFolderBackground": "#23292b",
@@ -28,12 +28,12 @@
     "sideBarSectionHeader.foreground": "#B1BECA",
     "sideBySideEditor.horizontalBorder": "#3B4548",
     "sideBySideEditor.verticalBorder": "#3B4548",
-    "sideBar.background": "#23262A",
+    "sideBar.background": "#17191C",
     "sideBar.foreground": "#B1BECA",
-    "sideBar.dropBackground": "#b3ff00",
+    "sideBar.dropBackground": "#FAC863",
     "activityBar.background": "#23262A",
     "activityBar.activeBorder": "#666",
-    "activityBar.foreground": "#666",
+    "activityBar.foreground": "#04A0F4",
     "activityBar.border": "#323e44",
     "titleBar.activeBackground": "#23262A",
     "titleBar.border": "#323e44",
@@ -83,10 +83,18 @@
     },
     {
       "name": "Keyword, Storage",
-      "scope": ["keyword", "storage.type", "storage.modifier"],
+      "scope": ["keyword"],
       "settings": {
         // fe621d
-        "foreground": "#04A0F4"
+        "foreground": "#0070F3"
+      }
+    },
+    {
+      "name": "Keyword, Storage",
+      "scope": ["storage.type", "storage.modifier"],
+      "settings": {
+        // fe621d
+        "foreground": "#E6026C"
       }
     },
     {
@@ -114,7 +122,7 @@
       "scope": ["keyword.control"],
       "settings": {
         // FF5D8F 277da1 4f6272 055864 ef5d60
-        "foreground": "#fb5d5a",
+        "foreground": "#E6026C",
         "fontStyle": "bold"
       }
     },
@@ -143,7 +151,7 @@
       ],
       "settings": {
         // ffccd5  aeaeae
-        "foreground": "#9ebd68"
+        "foreground": "#0070F3"
       }
     },
     {
@@ -154,7 +162,7 @@
         "markup.deleted.git_gutter"
       ],
       "settings": {
-        "foreground": "#9ebd68"
+        "foreground": "#2CA7FF"
       }
     },
     {
@@ -167,14 +175,14 @@
         "keyword.other.special-method"
       ],
       "settings": {
-        "foreground": "#ccc"
+        "foreground": "#2CA7FF"
       }
     },
     {
       "name": "Block Level Variables",
       "scope": ["meta.block variable.other"],
       "settings": {
-        "foreground": "#fab278"
+        "foreground": "#ccc"
       }
     },
     {
@@ -197,7 +205,7 @@
         "keyword.other"
       ],
       "settings": {
-        "foreground": "#ff9286"
+        "foreground": "#0070F3"
       }
     },
     {
@@ -214,7 +222,7 @@
       ],
       "settings": {
         // 90BE6D f4e04d 85bdbf
-        "foreground": "#64c7fc"
+        "foreground": "#2CA7FF"
       }
     },
     {
@@ -231,7 +239,7 @@
       ],
       "settings": {
         // F75590 c94370
-        "foreground": "#90be6d"
+        "foreground": "#ccc"
       }
     },
     {
@@ -296,8 +304,7 @@
       "name": "Attributes",
       "scope": ["entity.other.attribute-name"],
       "settings": {
-        // fe7295
-        "foreground": "#04A0F4"
+        "foreground": "#FAC863"
       }
     },
     {
@@ -308,14 +315,14 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#7cb518"
+        "foreground": "#FAC863"
       }
     },
     {
       "name": "CSS Classes",
       "scope": ["entity.other.attribute-name.class"],
       "settings": {
-        "foreground": "#7cb518"
+        "foreground": "#FAC863"
       }
     },
     {
@@ -329,7 +336,7 @@
       "name": "Inserted",
       "scope": ["markup.inserted"],
       "settings": {
-        "foreground": "#C3E88D"
+        "foreground": "#FAC863"
       }
     },
     {
