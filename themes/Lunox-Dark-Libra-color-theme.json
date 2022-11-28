@@ -205,7 +205,7 @@
         "keyword.other"
       ],
       "settings": {
-        "foreground": "#0070F3"
+        "foreground": "#36ACAA"
       }
     },
     {
@@ -221,14 +221,20 @@
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
       ],
       "settings": {
-        // 90BE6D f4e04d 85bdbf
-        "foreground": "#2CA7FF"
+        "foreground": "#36ACAA"
+      }
+    },
+    {
+      "name": "entity, name",
+      "scope": ["entity.name"],
+      "settings": {
+        // F75590 c94370
+        "foreground": "#ccc"
       }
     },
     {
       "name": "Class, Support",
       "scope": [
-        "entity.name",
         "support.type",
         "support.class",
         "support.other.namespace.use.php",
@@ -238,8 +244,7 @@
         "support.type.sys-types"
       ],
       "settings": {
-        // F75590 c94370
-        "foreground": "#ccc"
+        "foreground": "#2CA7FF"
       }
     },
     {
