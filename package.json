@@ -21,6 +21,11 @@
         "label": "Lunox Dark Libra",
         "uiTheme": "vs-dark",
         "path": "./themes/Lunox-Dark-Libra-color-theme.json"
+      },
+      {
+        "label": "Lunox Dark Butterfly Seraphim",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Lunox-Dark-Butterfly-Seraphim-color-theme.json"
       }
     ]
   },
