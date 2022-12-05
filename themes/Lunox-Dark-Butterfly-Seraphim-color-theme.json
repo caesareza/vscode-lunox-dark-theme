@@ -82,7 +82,7 @@
       "scope": ["keyword"],
       "settings": {
         // fe621d
-        "foreground": "#ffcf70"
+        "foreground": "#FFB57D"
       }
     },
     {
@@ -171,7 +171,7 @@
         "keyword.other.special-method"
       ],
       "settings": {
-        "foreground": "#f9d402"
+        "foreground": "#d14081"
       }
     },
     {
@@ -246,7 +246,7 @@
       "name": "Entity Types",
       "scope": ["support.type"],
       "settings": {
-        "foreground": "#A6B3BF"
+        "foreground": "#ffd600"
       }
     },
     {
