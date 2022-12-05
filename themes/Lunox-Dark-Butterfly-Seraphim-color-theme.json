@@ -249,7 +249,7 @@
       "name": "Entity Types",
       "scope": ["support.type"],
       "settings": {
-        "foreground": "#b67be6"
+        "foreground": "#FFD600"
       }
     },
     {
