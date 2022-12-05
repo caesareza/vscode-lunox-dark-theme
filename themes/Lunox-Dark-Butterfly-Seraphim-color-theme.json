@@ -41,10 +41,12 @@
     "gitDecoration.ignoredResourceForeground": "#5c6f68",
     "tab.activeBorder": "#63576c",
     "tab.inactiveBackground": "#33303e",
-    "terminal.foreground": "#597c82",
+    "terminal.foreground": "#9984d4",
+    "terminal.background": "#23212B",
+    "terminalCursor.foreground": "#9984d4",
     "list.focusOutline": "#C879FF",
-    "textLink.foreground": "#C879FF",
-    "button.background": "#C879FF"
+    "textLink.foreground": "#9984d4",
+    "button.background": "#9984d4"
   },
   "tokenColors": [
     {
@@ -59,8 +61,8 @@
       "name": "Variables",
       "scope": ["variable", "string constant.other.placeholder"],
       "settings": {
-        // 8ac6d0 ef767a a2d2ff
-        "foreground": "#b29ef8"
+        // ff8500 b29ef8 ff5733 ff6200 FFD600
+        "foreground": "#FFD600"
       }
     },
     {
