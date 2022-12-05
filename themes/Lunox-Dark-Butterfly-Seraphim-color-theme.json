@@ -10,7 +10,7 @@
     "editorGroupHeader.tabsBackground": "#23212B",
     "editor.background": "#282532",
     "editor.foreground": "#B1BECA",
-    "activityBarBadge.background": "#C879FF",
+    "activityBarBadge.background": "#AD69DD",
     "sideBarTitle.foreground": "#B1BECA",
     "statusBar.noFolderForeground": "#73878C",
     "statusBar.noFolderBackground": "#1C2930",
@@ -46,7 +46,8 @@
     "terminalCursor.foreground": "#9984d4",
     "list.focusOutline": "#C879FF",
     "textLink.foreground": "#9984d4",
-    "button.background": "#9984d4"
+    "button.background": "#9984d4",
+    "button.foreground": "#33303e"
   },
   "tokenColors": [
     {
@@ -248,7 +249,7 @@
       "name": "Entity Types",
       "scope": ["support.type"],
       "settings": {
-        "foreground": "#ffd600"
+        "foreground": "#b67be6"
       }
     },
     {
