@@ -35,7 +35,7 @@
     "activityBar.foreground": "#597c82",
     "activityBar.border": "#384447",
     "activityBarBadge.background": "#C94370",
-    "titleBar.activeBackground": "#23292b",
+    "titleBar.activeBackground": "#131d20",
     "titleBar.border": "#384447",
     "editorLineNumber.foreground": "#3B4548",
     "editorLineNumber.activeForeground": "#73878C",
@@ -88,7 +88,7 @@
       "scope": ["keyword", "storage.type", "storage.modifier"],
       "settings": {
         // fe621d
-        "foreground": "#ff499e"
+        "foreground": "#FF3471"
       }
     },
     {
@@ -167,14 +167,13 @@
         "keyword.other.special-method"
       ],
       "settings": {
-        "foreground": "#ff9286"
+        "foreground": "#ff87ab"
       }
     },
     {
       "name": "Block Level Variables",
       "scope": ["meta.block variable.other"],
       "settings": {
-        // ffba08 97cc04 aacc00 80b918 70e000 6e9887
         "foreground": "#B1BECA"
       }
     },
