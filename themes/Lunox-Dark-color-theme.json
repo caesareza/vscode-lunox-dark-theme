@@ -16,25 +16,25 @@
     "editorGroup.border": "#1A1E1E",
     "editorGroupHeader.noTabsBackground": "#1A1E1E",
     "editorGroupHeader.tabsBackground": "#23292b",
-    "editor.background": "#1A1E1E",
+    "editor.background": "#131d20",
     "editor.foreground": "#B1BECA",
     "sideBarTitle.foreground": "#738c88",
     "statusBar.noFolderForeground": "#73878C",
     "statusBar.noFolderBackground": "#23292b",
-    "statusBar.background": "#23292b",
+    "statusBar.background": "#893752",
     "statusBar.border": "#384447",
-    "statusBar.foreground": "#73878C",
-    "sideBar.background": "#23292b",
+    "statusBar.foreground": "#fcadc8",
+    "sideBar.background": "#131d20",
     "sideBar.foreground": "#92ada8",
-    "sideBar.dropBackground": "#b3ff00",
+    "sideBar.dropBackground": "#C94370",
     "sideBarSectionHeader.border": "#3f4b4e",
     "sideBarSectionHeader.foreground": "#597c82",
-    "sideBarSectionHeader.background": "#23292b",
-    "activityBar.background": "#23292b",
+    "sideBarSectionHeader.background": "#131d20",
+    "activityBar.background": "#131d20",
     "activityBar.activeBorder": "#597c82",
     "activityBar.foreground": "#597c82",
     "activityBar.border": "#384447",
-    "activityBarBadge.background": "#508991",
+    "activityBarBadge.background": "#C94370",
     "titleBar.activeBackground": "#23292b",
     "titleBar.border": "#384447",
     "editorLineNumber.foreground": "#3B4548",
@@ -45,7 +45,7 @@
     "gitDecoration.modifiedResourceForeground": "#b2cac1",
     "gitDecoration.untrackedResourceForeground": "#5c6f68",
     "gitDecoration.ignoredResourceForeground": "#5c6f68",
-    "tab.activeBorder": "#597c82",
+    "tab.activeBorder": "#23292b",
     "tab.inactiveBackground": "#23292b",
     "terminal.foreground": "#597c82",
     "list.focusOutline": "#FF499E",
@@ -107,7 +107,6 @@
         "keyword.other.substitution"
       ],
       "settings": {
-        // FF5D8F 277da1
         "foreground": "#ff499e"
       }
     },
@@ -115,8 +114,7 @@
       "name": "keyword control",
       "scope": ["keyword.control"],
       "settings": {
-        // 006d77 FF5D8F 055864 ef5d60
-        "foreground": "#ef5d60",
+        "foreground": "#218380",
         "fontStyle": "bold"
       }
     },
@@ -156,8 +154,6 @@
         "markup.deleted.git_gutter"
       ],
       "settings": {
-        // 21897e f75590
-        // c94370 -> pink
         "foreground": "#c94370"
       }
     },
@@ -171,9 +167,7 @@
         "keyword.other.special-method"
       ],
       "settings": {
-        // 85bdbf 90be6d e9df00 ef767a 49BEAA
-        // yellow : d2c800 FFCB6B d0c600 dbd007 f3c677
-        "foreground": "#d2c800"
+        "foreground": "#ff9286"
       }
     },
     {
@@ -204,7 +198,7 @@
         "keyword.other"
       ],
       "settings": {
-        "foreground": "#f28266"
+        "foreground": "#90BE6D"
       }
     },
     {
@@ -221,7 +215,7 @@
       ],
       "settings": {
         // 90BE6D f4e04d 85bdbf
-        "foreground": "#52ad9c"
+        "foreground": "#90BE6D"
       }
     },
     {
