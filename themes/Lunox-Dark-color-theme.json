@@ -15,9 +15,9 @@
     "sideBarTitle.foreground": "#738c88",
     "statusBar.noFolderForeground": "#73878C",
     "statusBar.noFolderBackground": "#23292b",
-    "statusBar.background": "#893752",
+    "statusBar.background": "#131d20", // 893752
     "statusBar.border": "#384447",
-    "statusBar.foreground": "#fcadc8",
+    "statusBar.foreground": "#92ada8",
     "sideBar.background": "#131d20",
     "sideBar.foreground": "#92ada8",
     "sideBar.dropBackground": "#C94370",
