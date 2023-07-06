@@ -3,35 +3,35 @@
   "colors": {
     "breadcrumb.foreground": "#73878C",
     "debugIcon.breakpointForeground": "#FF499E",
-    "sideBar.border": "#384447",
-    "editorGroupHeader.tabsBorder": "#384447",
+    // "sideBar.border": "#384447",
+    // "editorGroupHeader.tabsBorder": "#384447",
     "editorGroup.emptyBackground": "#1A1E1E",
     "editorGroup.dropIntoPromptBackground": "#1A1E1E",
-    "editorGroup.border": "#1A1E1E",
+    // "editorGroup.border": "#1A1E1E",
     "editorGroupHeader.noTabsBackground": "#1A1E1E",
-    "editorGroupHeader.tabsBackground": "#1c2629",
-    "editor.background": "#131d20",
-    "editor.foreground": "#B1BECA",
+    "editorGroupHeader.tabsBackground": "#1F2428",
+    "editor.background": "#1A1E23",
+    "editor.foreground": "#ccc",
     "sideBarTitle.foreground": "#738c88",
     "statusBar.noFolderForeground": "#73878C",
     "statusBar.noFolderBackground": "#23292b",
-    "statusBar.background": "#131d20", // 893752
-    "statusBar.border": "#384447",
+    "statusBar.background": "#1A1E23",
+    // "statusBar.border": "#384447",
     "statusBar.foreground": "#92ada8",
-    "sideBar.background": "#131d20",
-    "sideBar.foreground": "#92ada8",
+    "sideBar.background": "#1F2428",
+    "sideBar.foreground": "#E5E7EB",
     "sideBar.dropBackground": "#C94370",
-    "sideBarSectionHeader.border": "#3f4b4e",
-    "sideBarSectionHeader.foreground": "#597c82",
-    "sideBarSectionHeader.background": "#131d20",
-    "activityBar.background": "#131d20",
+    // "sideBarSectionHeader.border": "#3f4b4e",
+    "sideBarSectionHeader.foreground": "#ccc",
+    "sideBarSectionHeader.background": "#1F2428",
+    "activityBar.background": "#1F2428",
     "activityBar.activeBorder": "#597c82",
     // ffafcc 8fc0a9
     "activityBar.foreground": "#6e9887",
-    "activityBar.border": "#384447",
+    // "activityBar.border": "#384447",
     "activityBarBadge.background": "#C94370",
-    "titleBar.activeBackground": "#131d20",
-    "titleBar.border": "#384447",
+    "titleBar.activeBackground": "#1F2428",
+    // "titleBar.border": "#384447",
     "titleBar.inactiveForeground": "#FF499E",
     "editorLineNumber.foreground": "#3B4548",
     "editorLineNumber.activeForeground": "#73878C",
@@ -44,8 +44,8 @@
     "gitDecoration.addedResourceForeground": "#FF499E",
     "gitDecoration.stageModifiedResourceForeground": "#FF499E",
     "gitDecoration.renamedResourceForeground": "#FF499E",
-    "tab.activeBorder": "#23292b",
-    "tab.inactiveBackground": "#1c2629",
+    // "tab.activeBorder": "#FF499E",
+    "tab.inactiveBackground": "#1F2428",
     "terminal.foreground": "#597c82",
     "list.focusOutline": "#FF499E",
     "button.background": "#597c82",
@@ -64,8 +64,7 @@
       "name": "Variables",
       "scope": ["variable", "string constant.other.placeholder"],
       "settings": {
-        // 8ac6d0 ef767a a2d2ff
-        "foreground": "#B1BECA"
+        "foreground": "#efefef"
       }
     },
     {
@@ -113,7 +112,7 @@
       "name": "keyword control",
       "scope": ["keyword.control"],
       "settings": {
-        "foreground": "#9fba33",
+        "foreground": "#bddd3d",
         "fontStyle": "bold"
       }
     },
@@ -173,7 +172,7 @@
       "name": "Block Level Variables",
       "scope": ["meta.block variable.other"],
       "settings": {
-        "foreground": "#B1BECA"
+        "foreground": "#efefef"
       }
     },
     {
@@ -196,7 +195,7 @@
         "keyword.other"
       ],
       "settings": {
-        "foreground": "#90BE6D"
+        "foreground": "#a0d974"
       }
     },
     {
@@ -212,8 +211,7 @@
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
       ],
       "settings": {
-        // 90BE6D f4e04d 85bdbf
-        "foreground": "#90BE6D"
+        "foreground": "#a0d974"
       }
     },
     {
@@ -237,7 +235,7 @@
       "name": "Entity Types",
       "scope": ["support.type"],
       "settings": {
-        "foreground": "#B1BECA"
+        "foreground": "#efefef"
       }
     },
     {
@@ -251,7 +249,7 @@
         "source.postcss support.type.property-name"
       ],
       "settings": {
-        "foreground": "#B1BECA"
+        "foreground": "#efefef"
       }
     },
     {
