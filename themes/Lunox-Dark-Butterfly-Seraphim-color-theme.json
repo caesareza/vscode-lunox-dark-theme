@@ -9,14 +9,14 @@
     "editorGroupHeader.noTabsBackground": "#23212B",
     "editorGroupHeader.tabsBackground": "#1f1e27",
     "editor.background": "#25232f",
-    "editor.foreground": "#B1BECA",
+    "editor.foreground": "#D8DCE0",
     "editorGroupHeader.border": "#1f1e27",
     "activityBarBadge.background": "#9c5cba",
     "sideBarTitle.foreground": "#B1BECA",
     "statusBar.noFolderForeground": "#73878C",
     "statusBar.noFolderBackground": "#1C2930",
     "statusBar.border": "#1f1e27",
-    "statusBar.background": "#1f1e27",
+    "statusBar.background": "#25232f",
     "statusBar.foreground": "#66666e",
     "sideBarSectionHeader.background": "#1f1e27",
     "sideBarSectionHeader.border": "#1f1e27",
@@ -66,8 +66,7 @@
       "name": "Variables",
       "scope": ["variable", "string constant.other.placeholder"],
       "settings": {
-        // ff8500 b29ef8 ff5733 ff6200 FFD600
-        "foreground": "#FFD600"
+        "foreground": "#D8DCE0"
       }
     },
     {
@@ -117,7 +116,7 @@
       ],
       "settings": {
         // FF5D8F 277da1
-        "foreground": "#efefef"
+        "foreground": "#D8DCE0"
       }
     },
     {
@@ -138,7 +137,6 @@
         "keyword.other.substitution"
       ],
       "settings": {
-        // ffccd5  aeaeae
         "foreground": "#d1d1d1"
       }
     },
@@ -185,7 +183,7 @@
       "name": "Block Level Variables",
       "scope": ["meta.block variable.other"],
       "settings": {
-        "foreground": "#D1D1D1"
+        "foreground": "#D8DCE0"
       }
     },
     {
@@ -231,7 +229,7 @@
       "name": "entity, name",
       "scope": ["entity.name"],
       "settings": {
-        "foreground": "#A6B3BF"
+        "foreground": "#D8DCE0"
       }
     },
     {
@@ -253,7 +251,7 @@
       "name": "Entity Types",
       "scope": ["support.type"],
       "settings": {
-        "foreground": "#FFD600"
+        "foreground": "#D8DCE0"
       }
     },
     {
@@ -267,7 +265,7 @@
         "source.postcss support.type.property-name"
       ],
       "settings": {
-        "foreground": "#A6B3BF"
+        "foreground": "#D8DCE0"
       }
     },
     {
