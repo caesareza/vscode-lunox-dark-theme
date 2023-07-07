@@ -19,7 +19,7 @@
     // "statusBar.border": "#384447",
     "statusBar.foreground": "#92ada8",
     "sideBar.background": "#1F2428",
-    "sideBar.foreground": "#E5E7EB",
+    "sideBar.foreground": "#8DA597",
     "sideBar.dropBackground": "#C94370",
     // "sideBarSectionHeader.border": "#3f4b4e",
     "sideBarSectionHeader.foreground": "#ccc",
@@ -38,11 +38,11 @@
     "list.activeSelectionBackground": "#23292b",
     "list.activeSelectionForeground": "#FF499E",
     "list.activeSelectionIconForeground": "#62a8ac",
-    "gitDecoration.modifiedResourceForeground": "#b2cac1",
+    "gitDecoration.modifiedResourceForeground": "#00b4d8",
     "gitDecoration.untrackedResourceForeground": "#415d43",
     "gitDecoration.ignoredResourceForeground": "#415d43",
-    "gitDecoration.addedResourceForeground": "#FF499E",
-    "gitDecoration.stageModifiedResourceForeground": "#FF499E",
+    "gitDecoration.addedResourceForeground": "#a5be00",
+    "gitDecoration.stageModifiedResourceForeground": "#a5be00",
     "gitDecoration.renamedResourceForeground": "#FF499E",
     // "tab.activeBorder": "#FF499E",
     "tab.inactiveBackground": "#1F2428",
@@ -64,14 +64,14 @@
       "name": "Variables",
       "scope": ["variable", "string constant.other.placeholder"],
       "settings": {
-        "foreground": "#efefef"
+        "foreground": "#ced4da"
       }
     },
     {
       "name": "Colors",
       "scope": ["constant.other.color"],
       "settings": {
-        "foreground": "#efefef"
+        "foreground": "#ced4da"
       }
     },
     {
@@ -172,7 +172,7 @@
       "name": "Block Level Variables",
       "scope": ["meta.block variable.other"],
       "settings": {
-        "foreground": "#efefef"
+        "foreground": "#ced4da"
       }
     },
     {
@@ -235,7 +235,7 @@
       "name": "Entity Types",
       "scope": ["support.type"],
       "settings": {
-        "foreground": "#efefef"
+        "foreground": "#ced4da"
       }
     },
     {
@@ -249,7 +249,7 @@
         "source.postcss support.type.property-name"
       ],
       "settings": {
-        "foreground": "#efefef"
+        "foreground": "#ced4da"
       }
     },
     {
