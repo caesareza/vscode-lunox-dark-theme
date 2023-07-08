@@ -19,10 +19,10 @@
     // "statusBar.border": "#384447",
     "statusBar.foreground": "#92ada8",
     "sideBar.background": "#1F2428",
-    "sideBar.foreground": "#8DA597",
+    "sideBar.foreground": "#a9c5b4",
     "sideBar.dropBackground": "#C94370",
     // "sideBarSectionHeader.border": "#3f4b4e",
-    "sideBarSectionHeader.foreground": "#ccc",
+    "sideBarSectionHeader.foreground": "#a9c5b4",
     "sideBarSectionHeader.background": "#1F2428",
     "activityBar.background": "#1F2428",
     "activityBar.activeBorder": "#597c82",
@@ -249,7 +249,7 @@
         "source.postcss support.type.property-name"
       ],
       "settings": {
-        "foreground": "#ced4da"
+        "foreground": "#b183c1"
       }
     },
     {
